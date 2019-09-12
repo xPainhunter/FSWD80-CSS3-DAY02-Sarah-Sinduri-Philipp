@@ -1,0 +1,21 @@
+body {
+	text-align: center;
+	padding: 10px;
+	background: rgb(102, 153, 255);
+
+}
+.header {
+	border: 1px solid black;
+}
+
+.head {
+	display: inline-block;
+	width: 30%;
+}
+
+nav ul li {
+	display: inline-block;
+	width:  9%;
+	background: rgb(0, 102, 255);
+	color: white;
+}
