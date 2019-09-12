@@ -1,6 +1,24 @@
-nav ul li {
-	display: inline-block;
-	width:  9%;
+nav {
+	float: left;
+	height: 40px;
+	width: 100%;
 	background: rgb(0, 102, 255);
-	color: white;
+	text-align: center;
+	margin-top: 10px
+}
+
+
+
+nav ul li {
+	/*border: 1px solid black;*/
+	position: relative;
+	transform: translateY(-22%);
+	list-style-type: none;
+	width: 9%;
+	float:  left;
+}
+
+nav ul li a {
+	text-decoration: none;
+	color:  white;
 }
