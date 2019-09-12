@@ -2,7 +2,30 @@
 	border: 1px solid black;
 }
 
+
+
 .head {
-	display: inline-block;
-	width: 30%;
+	float: left;
+	height: 100px;
+	width: 33%;
+	text-align: center;
+	font-size: 50px;
+	border: 1px solid black;
 }
+
+.head img {
+	height: 100%;
+}
+
+#second {
+	float: left;
+	
+	border: 1px solid red;
+	
+}
+
+#third {
+	float: left;
+	border: 1px solid green;
+}
+
