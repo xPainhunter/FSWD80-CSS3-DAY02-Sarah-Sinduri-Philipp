@@ -1,0 +1,6 @@
+nav ul li {
+	display: inline-block;
+	width:  9%;
+	background: rgb(0, 102, 255);
+	color: white;
+}

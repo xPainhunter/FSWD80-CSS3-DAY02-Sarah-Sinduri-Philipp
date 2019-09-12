@@ -1,0 +1,8 @@
+.header {
+	border: 1px solid black;
+}
+
+.head {
+	display: inline-block;
+	width: 30%;
+}
