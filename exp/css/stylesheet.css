@@ -1,0 +1,45 @@
+body {
+	text-align: center;
+}
+
+.c1 {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+}
+
+.c2 {
+	display: flex;
+	flex-direction: row;
+}
+
+.c3 {
+	display: flex;
+	flex-direction: row;
+}
+
+.c4 {
+	display: flex;
+	flex-direction: row;
+}
+	.pc1 {
+		display: flex;
+		flex-direction: column;
+	}
+		.pc2 {
+			display: flex;
+			flex-direction: row;
+		}
+		.pc3 {
+			display: flex;
+			flex-direction: row;
+		}
+
+.c5 {
+	display: flex;
+	flex-direction: row;
+}
+
+div {
+	border: 1px soldie black;
+}
