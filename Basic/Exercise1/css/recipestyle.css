@@ -12,11 +12,16 @@ p {
 	color: #707070;
 }
 
+.content {
+	text-align: left;
+}
 li {
 	color: #707070;
 	padding-top: 5px;
 	padding-bottom: 5px;
+	
 }
+
 
 header {
 	text-align: center;
@@ -34,13 +39,18 @@ h3 {
 	color: #474747;
 }
 
-.class {
+.hero {
 	background-color: #f4f4f4;
 	text-align: center;
 	padding-bottom: 10px;
 }
 
+.rating {
+	text-align: center;
+}
+
 .rating span {
+
 	color:  #F4B400;
 	font-size: 25px;
 }
